@@ -1,6 +1,6 @@
 # Real-time Pose Estimation and Facial Expression Recognition System
 
-This project presents a real-time system that combines the capabilities of MediaPipe libraries and OpenCV to perform pose estimation and facial expression recognition simultaneously.
+This Group project presents a real-time system that combines the capabilities of MediaPipe libraries and OpenCV to perform pose estimation and facial expression recognition simultaneously.
 
 ## Features
 
