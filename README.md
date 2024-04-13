@@ -26,4 +26,24 @@ To use this system, follow these steps:
 4. You can customize the data to be recorded according to your reuirements.
 5. Train the model in `Model.ipynb` using csv file generated.
 6. You can select which machine learning algorith to use and export the model.
-7. Run `RealTime_Detection.ipynb` on the model for the implementation
+7. Run `RealTime_Detection.ipynb` on the model for the implementation.
+
+
+## Getting Started
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone "https://github.com/K09Gaurav/Pose-and-Facial-expression-estimation-in-real-time"
+```
+2. Navigate to the project directory:
+
+```bash
+cd Pose-and-Facial-expression-estimation-in-real-time
+```
+
+3. Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
